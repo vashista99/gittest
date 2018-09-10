@@ -4,7 +4,7 @@
 	<groupId>com.testdouble</groupId>
 	<artifactId>test-training</artifactId>
 	<packaging>pom</packaging>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>test-training</name>
         <url>https://github.com/testdouble/contributing-tests/wiki</url>
 	<modules>
